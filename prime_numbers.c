@@ -1,3 +1,5 @@
+// https://pl.spoj.com/problems/PRIME_T/
+
 #include <stdio.h>
 
 int isPrimeNumber(int num) {
